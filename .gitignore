@@ -1,0 +1,22 @@
+# Secretos y credenciales
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+credentials*
+secrets*
+
+# Registros y archivos temporales
+*.log
+tmp/
+temp/
+*.tmp
+
+# Sistemas operativos
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Material privado de formación
+00-ACADEMIA-PRIVADA/
